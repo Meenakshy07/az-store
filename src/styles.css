@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+.cart{
+    color: greenyellow;
+    background-color: orange!important;
+}
+.navbar-brand{
+    color: orange;
+    font-style: italic;
+}
+
+.container{
+    padding: 80px;
+}
+footer{
+    color:oldlace;
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+    width:100%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
